@@ -1,0 +1,22 @@
+.home {
+    background-color: white;
+    padding-top: 20px;
+}
+
+.homeImg {
+    width: 18%;
+}
+
+.divBefore{
+    width: 90px;
+    height: 5px;
+    background-color: #2c3e50;
+    margin-top: 5px;
+}
+.allDiv{
+    color: #2c3e50;
+}
+
+input:focus{
+    border-color: black;
+}

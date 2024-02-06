@@ -1,0 +1,22 @@
+.home {
+    background-color: #1abc9c;
+    padding-top: 100px;
+}
+
+.homeImg {
+    width: 18%;
+}
+
+.divBefore{
+    width: 90px;
+    height: 5px;
+    background-color: white;
+    margin-top: 5px;
+}
+.detailsDiv{
+    padding-bottom: 180px;
+}
+
+.mainHead{
+    padding-top: 80px;
+}
